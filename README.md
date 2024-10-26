@@ -15,10 +15,10 @@ Date, Month Number, Month Name, Year: Temporal information related to each sale.
 # Key Performance Indicators (KPIs)
 This report includes several KPIs to provide quick insights into financial performance:
 
-Total Sales: Total revenue generated from all transactions.
-Total Profit: Profit after accounting for COGS.
-Profit Margin: Percentage of profit over total sales.
-Units Sold: Total quantity of units sold across all transactions.
+Total Sales: Total revenue generated from all transactions (118.73M dollar)
+Total Profit: Profit after accounting for COGS.(16.89M dollar)
+Profit Margin: Percentage of profit over total sales.(14.23%)
+Units Sold: Total quantity of units sold across all transactions.(1.13)
 
 # Visualizations and Insights
 The report includes a minimum of 7 visuals to deliver a comprehensive view of the data, along with insights from each.
